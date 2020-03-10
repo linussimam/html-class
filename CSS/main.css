@@ -1,0 +1,35 @@
+.eduka {
+    text-align: center;
+    font-family: "Rage Italic";
+    font-size: 50px;
+    color: #1DE9B6;
+    background-color: black;
+    padding: long;
+}
+#store{
+    text-align: center;
+    color:orangered;
+    font-size: 40px;
+    font-family: "Franklin Gothic Medium";
+    border: aqua;
+
+
+}
+#products{
+    font-size: 30px;
+    color:black;
+    font-family: "Times New Roman";
+    text-align: center;
+    text
+}
+.pictures{text-align: center;
+          font-family: "Franklin Gothic Medium";
+          font-size: 40px;
+    text-emphasis: #0f0f0f;
+
+}
+ul{font-size: 20px;
+   color:brown;
+    text-align: center;
+    list-style: none;
+}
